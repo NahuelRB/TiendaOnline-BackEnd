@@ -1,10 +1,10 @@
-package com.efox.BackEndFrogger;
+package com.eternamania;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackEndFroggerApplicationTests {
+class EternamaniaBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
